@@ -1,4 +1,4 @@
-# ENIN DMITRIY 👋
+# enyad👋
 - trying to be Junior frontend developer or smth
 - 18 y.o
 - from Novosibirsk, Russia
