@@ -1,8 +1,9 @@
 # ENIN DMITRIY 👋
-- trying to be Junior frontend developer or sthg
+- trying to be Junior frontend developer or smth
 - 18 y.o
 - from Novosibirsk, Russia
 - +7 UTC, +4 MSK
+- Speak Russian(Native), English(B2-C1)
 
 ## Stack 🛠️
 - JavaScript
