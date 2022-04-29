@@ -7,7 +7,7 @@
 
 ## Stack 🛠️
 - JavaScript
-- Boostrap CSS
+- Boostrap CSS, SASS
 - Node.js
 - MySQL
 - Github Actions
