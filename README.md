@@ -6,7 +6,8 @@
 - Speak Russian(Native), English(B2-C1)
 
 ## Stack 🛠️
-- JavaScript
+- JavaScript, TypeScript
+- Angular
 - Boostrap CSS, SASS
 - Node.js
 - MySQL
