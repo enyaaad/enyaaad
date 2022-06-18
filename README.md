@@ -9,7 +9,7 @@
 - JavaScript, TypeScript
 - Angular
 - Boostrap CSS, SASS
-- Node.js
+- Node.js, Webpack
 - MySQL
 - Github Actions
 
