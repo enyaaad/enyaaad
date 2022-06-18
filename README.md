@@ -8,7 +8,7 @@
 ## Stack 🛠️
 - JavaScript, TypeScript
 - Angular
-- Boostrap CSS, SASS
+- Boostrap, CSS, SASS
 - Node.js, Webpack
 - MySQL
 - Github Actions
