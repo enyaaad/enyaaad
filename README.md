@@ -13,6 +13,9 @@
 - MySQL
 - Github Actions
 
+## Deployed Projects:
+[JokeApi](https://enyaaad.github.io/joke-api-deploy/)
+
 ## Education 🎓
 - HCI - Programmer - 2020 - 2024
 
