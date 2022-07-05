@@ -14,7 +14,7 @@
 - Github Actions
 
 ## Deployed Projects:
-- [JokeApi](https://github.com/enyaaad/joke-api)
+- [JokeApi](https://enyaaad.github.io/joke-api/)
 
 ## Education 🎓
 - HCI - Programmer - 2020 - 2024
