@@ -10,7 +10,7 @@
 - Angular
 - Boostrap, CSS, SASS
 - Node.js, Webpack
-- MySQL
+- MySQL, PostgreSQL
 - Github Actions
 
 ## Deployed Projects:
