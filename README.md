@@ -15,6 +15,7 @@
 
 ## Deployed Projects:
 - [JokeApi](https://enyaaad.github.io/joke-api/)
+- [Dota 2 The International Countdown](https://enyaaad.github.io/TICountdown/)
 
 ## Education 🎓
 - HCI - Programmer - 2020 - 2024
