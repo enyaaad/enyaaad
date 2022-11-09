@@ -18,7 +18,7 @@
 - [Dota 2 The International Countdown](https://enyaaad.github.io/TICountdown/)
 
 ## Education 🎓
-- HCI - Programmer - 2020 - 2024
+- HCI - Programmer - 2019 - 2023
 
 
 ## Events & Achievements 🏆
