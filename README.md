@@ -1,5 +1,5 @@
 # enyad👋
-- trying to be Junior frontend developer or smth
+- Junior Frontend Developer
 - 19 y.o.
 - from Novosibirsk, Russia
 - +7 UTC, +4 MSK
@@ -11,7 +11,6 @@
 - Boostrap, CSS, SASS
 - Node.js, Webpack
 - MySQL, PostgreSQL
-- Github Actions
 
 ## Deployed Projects:
 - [Landing Page](https://enyaaad.github.io/LandingPage/)
