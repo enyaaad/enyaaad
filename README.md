@@ -6,11 +6,25 @@
 - Speak Russian(Native), English(B2-C1)
 
 ## Stack 🛠️
-- JavaScript, TypeScript
-- Angular
-- Boostrap, CSS, SASS
-- Node.js, Webpack
-- MySQL, PostgreSQL
+### General
+- Basic skills in C#,C++
+### Frontend
+- Javascript ES6+
+- TypeScript
+- Angular v10+ (Main Framework)
+- Angular Material
+- Vue 2&3 (Additional Framework)
+- Vue Material
+- CSS (Sass)
+- Tailwind CSS
+- Boostrap CSS
+### Backend
+- Golang (Actively learning) (Gin, Gorilla)
+- Node.js (Express js)
+- Webpack
+- Vite
+- MySQL
+- PostgreSQL
 
 ## Deployed Projects:
 - [Personal Landing Page](https://enyaaad.github.io/LandingPage/)
