@@ -13,7 +13,7 @@
 - TypeScript
 - Angular v10+ (Main Framework)
 - Angular Material
-- Vue 2&3 (Additional Framework) (learning)
+- Vue 2&3 (basics) (Additional Framework) 
 - Vue Material
 - CSS (Sass)
 - Tailwind CSS
