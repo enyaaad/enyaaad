@@ -28,7 +28,7 @@
 
 ## Deployed Projects:
 - [Personal Landing Page](https://enyaaad.github.io/LandingPage/)
-- [JokeApi](https://enyaaad.github.io/joke-api)
+- [JokeApi] (https://enyaaad.github.io/JokeApi/)
 - [WeatherAPI React](https://enyaaad.github.io/ReactWeather/)
 - [Dota 2 The International Countdown](https://enyaaad.github.io/TICountdown/)
 
