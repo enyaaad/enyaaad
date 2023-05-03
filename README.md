@@ -19,11 +19,10 @@
 - Tailwind CSS
 - Boostrap CSS
 ### Backend
-- Golang (Actively learning) (Gin, Gorilla)
-- Docker (Actively learning)
-- Node.js (Express js)
-- Webpack
-- Vite
+- Golang, Gin
+- Docker
+- Node.js, Express
+- Webpack, Vite
 - MySQL
 - PostgreSQL
 
