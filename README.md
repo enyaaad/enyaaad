@@ -5,7 +5,7 @@
 - +7 UTC, +4 MSK
 - Speak Russian(Native), English(B2-C1)
 - 
-## Experience 🎓 more than 
+## Experience 🎓 more than half a year
  - Frontend Developer in [Sapphire Group](http://sapphire-group.pro/),
    - ***Dates***: February 2022 - ***Now***
    - ***Technologies***: HTML, CSS, SASS, JS (Jquery)
