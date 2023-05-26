@@ -12,6 +12,7 @@
 ## Stack 🛠️
 ### General
 - Basic skills in C#,C++
+- Webpack, Vite
 ### Frontend
 - Javascript ES6+
 - TypeScript
@@ -26,7 +27,6 @@
 - Golang, Gin
 - Docker
 - Node.js, Express
-- Webpack, Vite
 - MySQL
 - PostgreSQL
 
