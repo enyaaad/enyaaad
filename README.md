@@ -46,3 +46,5 @@
 ## Contacts & Socials 📮
 - [VK](https://vk.com/enyaaad)
 - [E-mail](mailto://enindima1@gmail.com)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enyaaad&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
