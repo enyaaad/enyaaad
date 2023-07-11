@@ -11,14 +11,13 @@
 ## Stack 🛠️
 ### General
 - Basic skills in C#,C++
-- Webpack, Vite
+- Webpack, Vite, ESLint
 ### Frontend
 - Javascript ES6+
 - TypeScript
 - Angular v10+ (Main Framework)
 - Angular Material
 - Vue 2&3 (basics) (Additional Framework) 
-- Vue Material
 - CSS (Sass)
 - Tailwind CSS
 - Boostrap CSS
