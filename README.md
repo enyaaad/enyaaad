@@ -1,6 +1,6 @@
 # enyad👋
 - Frontend Developer
-- 19 y.o.
+- 20 y.o.
 - from Novosibirsk, Russia
 - +7 UTC, +4 MSK
 - Speak Russian(Native), English(B2-C1)
