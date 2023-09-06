@@ -8,7 +8,7 @@
  - Frontend Developer in [Sapphire Group](http://sapphire-group.pro/),
    - ***Technologies***: HTML, CSS, SASS, JS (Jquery)
  - Frontend Developer in [RS Systems](https://www.rssystems.ru/),
-   - ***Technologies***: Vue 3 Composition API, Bootstrap, Pinia, Sass
+   - ***Technologies***: Vue 3 Composition API, TypeScript, Bootstrap, Pinia, Sass
 
 ## Stack 🛠️
 ### General
