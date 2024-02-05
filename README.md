@@ -4,7 +4,7 @@
 - from Novosibirsk, Russia
 - +7 UTC, +4 MSK
 - Speak Russian(Native), English(B2-C1)
-## Experience 🎓 > 1 tear
+## Experience 🎓 > 1 year
  - Frontend Developer in [Sapphire Group](http://sapphire-group.pro/),
    - ***Technologies***: HTML, CSS, SASS, JS (Jquery)
  - Frontend Developer in [RS Systems](https://www.rssystems.ru/),
