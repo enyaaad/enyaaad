@@ -17,18 +17,18 @@
 ### Frontend
 - Javascript ES6+
 - TypeScript
-- Angular v10+ (Main Framework)
-- Angular Material
-- Vue 2&3 (basics) (Additional Framework) 
+- Vue 2,3 
 - CSS (Sass)
 - Tailwind CSS
 - Boostrap CSS
+- Angular Material
+- Angular v10+ 
 ### Backend
-- Golang, Gin
-- Docker
+- Golang, Gin, Fiber
+- Docker, Docker Compose, NGINX
 - Node.js, Express
-- MySQL
-- PostgreSQL
+- MySQL, PostgreSQL
+
 
 ## Deployed Projects:
 - [ZetregoTeam](https://zetrego.ru)
