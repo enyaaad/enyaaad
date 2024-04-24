@@ -31,6 +31,7 @@
 - PostgreSQL
 
 ## Deployed Projects:
+- [ZetregoTeam](https://zetrego.ru)
 - [Personal Landing Page](https://enyaaad.github.io/LandingPage/)
 - [JokeApi](https://enyaaad.github.io/JokeApi/)
 - [WeatherAPI React](https://enyaaad.github.io/ReactWeather/)
