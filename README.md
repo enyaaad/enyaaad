@@ -4,6 +4,7 @@
 - from Novosibirsk, Russia
 - +7 UTC, +4 MSK
 - Speak Russian(Native), English(B2-C1)
+
 ## Experience 🎓 > 2 years
  - Frontend Developer in [Sapphire Group](http://sapphire-group.pro/),
    - ***Technologies***: HTML, CSS, SASS, JS (Jquery)
@@ -12,23 +13,15 @@
 
 ## Stack 🛠️
 ### General
-- Basic skills in C#,C++
 - Webpack, Vite, ESLint
 ### Frontend
-- Javascript ES6+
-- TypeScript
+- Javascript, TypeScript
 - Vue 2,3 
-- CSS (Sass)
-- Tailwind CSS
-- Boostrap CSS
-- Angular Material
-- Angular v10+ 
+- Boostrap CSS, Tailwind CSS
 ### Backend
 - Golang, Gin, Fiber
 - Docker, Docker Compose, NGINX
-- Node.js, Express
 - MySQL, PostgreSQL
-
 
 ## Deployed Projects:
 - [ZetregoTeam](https://zetrego.ru)
@@ -37,6 +30,7 @@
 - [WeatherAPI React](https://enyaaad.github.io/ReactWeather/)
 
 ## Education 🎓
+- NSTU - Programmer - 2024 - 2024
 - HCI - Programmer - 2019 - 2023
 
 
