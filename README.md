@@ -10,7 +10,9 @@
    - ***Technologies***: HTML, CSS, SASS, JS (Jquery)
  - Frontend Developer in [RS Systems](https://www.rssystems.ru/),
    - ***Technologies***: Vue 3 Composition API, TypeScript, Bootstrap, Pinia, Sass
-
+ - Senior Frontend Developer in [RTK IT](https://rtkit.ru/),
+   - ***Technologies***: Vue 2 Options API, Vue 3 Composition API, TypeScript, VueX
+ 
 ## Stack 🛠️
 ### General
 - Webpack, Vite, ESLint
