@@ -6,7 +6,7 @@
 - Speak Russian(Native), English(B2-C1)
 
 ## Experience 🎓 > 2 years
- - Frontend Developer in [Sapphire Group](http://sapphire-group.pro/),
+ - Frontend Developer in [Sapphire Group](https://career.habr.com/companies/sapphire),
    - ***Technologies***: HTML, CSS, SASS, JS (Jquery)
  - Frontend Developer in [RS Systems](https://www.rssystems.ru/),
    - ***Technologies***: Vue 3 Composition API, TypeScript, Bootstrap, Pinia, Sass
