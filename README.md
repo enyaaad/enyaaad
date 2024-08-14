@@ -1,6 +1,6 @@
 # enyad👋
 - Frontend Developer
-- 20 y.o.
+- 21 y.o.
 - from Novosibirsk, Russia
 - +7 UTC, +4 MSK
 - Speak Russian(Native), English(B2-C1)
@@ -26,7 +26,6 @@
 - MySQL, PostgreSQL
 
 ## Deployed Projects:
-- [ZetregoTeam](https://zetrego.ru)
 - [Personal Landing Page](https://enyaaad.github.io/LandingPage/)
 - [JokeApi](https://enyaaad.github.io/JokeApi/)
 - [WeatherAPI React](https://enyaaad.github.io/ReactWeather/)
