@@ -12,6 +12,8 @@
    - ***Technologies***: Vue 3 Composition API, TypeScript, Bootstrap, Pinia, Sass
  - Senior Frontend Developer in [RTK IT](https://rtkit.ru/),
    - ***Technologies***: Vue 2 Options API, Vue 3 Composition API, TypeScript, VueX
+-  Senior Frontend Developer in [Affmy](https://affmy.com/)
+   - ***Technologies***: Vue 3 Composition API, TypeScript, Pinia, Vitest, Cypress, CI
  
 ## Stack 🛠️
 ### General
