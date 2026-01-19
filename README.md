@@ -1,5 +1,5 @@
 # enyad👋
-- Frontend Developer
+- Fullstack Developer
 - 22 y.o.
 - from Novosibirsk, Russia
 - +7 UTC, +4 MSK
@@ -23,7 +23,7 @@
 - Vue 2,3 
 - Boostrap CSS, Tailwind CSS
 ### Backend
-- Golang, Gin, Fiber
+- Golang, Gin
 - Docker, Docker Compose, NGINX
 - MySQL, PostgreSQL
 
