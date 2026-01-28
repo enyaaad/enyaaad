@@ -36,12 +36,6 @@
 - NSTU - Programmer - 2024 - 2024
 - HCI - Programmer - 2019 - 2023
 
-
-## Events & Achievements 🏆
-### 2021
-- Innotech - group stage
-- VTB More.Tech 3.0 - group stage
-
 ## Contacts & Socials 📮
 - [VK](https://vk.com/enyaaad)
 - [E-mail](mailto://enindima1@gmail.com)
