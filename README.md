@@ -7,13 +7,11 @@
 
 ## Experience 🎓 > 4 years
  - Frontend Developer in [Sapphire Group](https://career.habr.com/companies/sapphire),
-   - ***Technologies***: HTML, CSS, SASS, JS (Jquery)
+   - ***Technologies***: Golang, HTML, CSS, SASS, JS (Jquery)
  - Frontend Developer in [RS Systems](https://www.rssystems.ru/),
-   - ***Technologies***: Vue 3 Composition API, TypeScript, Bootstrap, Pinia, Sass
+   - ***Technologies***: Golang, PostgreSQL, Vue 3 Composition API, TypeScript, Bootstrap, Pinia, Sass
  - Senior Frontend Developer in [RTK IT](https://rtkit.ru/),
-   - ***Technologies***: Vue 2 Options API, Vue 3 Composition API, TypeScript, VueX
--  Senior Frontend Developer in [Affmy](https://affmy.com/)
-   - ***Technologies***: Vue 3 Composition API, TypeScript, Pinia, Vitest, Cypress, CI
+   - ***Technologies***: Vue 2 Options API, Vue 3 Composition API, TypeScript, VueX, Vitest, Selenium, CICD
  
 ## Stack 🛠️
 ### General
